@@ -203,6 +203,7 @@ span.header-logo-second-word {
 /* ===============HERO ==============*/
 
 .hero {
+    margin: 0 auto;
     text-align: center; 
     background: #2E2F42;
     padding-bottom: 188px;
@@ -523,26 +524,30 @@ span.footer-logo-second-word {
     flex-basis: calc((100% - 48px) / 3);
 }
 
-.portfolio-item:hover,
+/* .portfolio-item:hover,
 .portfolio-item:focus {
     border-left: 0.5px solid #F4F4FD;
     border-right: 0.5px solid #F4F4FD;
     border-bottom: 0.5px solid #F4F4FD;;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-}
+} */
 
 .portfolio-photo {
     width: 100%;
 }
 
-/* НЕ ПРАЦЮЄ */
-/* .portfolio-cards-link:hover,
+.portfolio-cards-link {
+    display: block;
+}
+
+
+.portfolio-cards-link:hover,
 .portfolio-cards-link:focus {
     border-left: 0.5px solid #F4F4FD;
     border-right: 0.5px solid #F4F4FD;
     border-bottom: 0.5px solid #F4F4FD;;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-} */
+}
 
 
 .portfolio-card-content-wrapper {
