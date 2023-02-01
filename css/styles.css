@@ -155,7 +155,7 @@ span.header-logo-second-word {
 }
 
 .address {
-    margin-left:auto;
+    margin-left: auto;
 }
 
 .menu-link {
@@ -477,12 +477,15 @@ span.footer-logo-second-word {
 }
 .
 /* =============PORTFOLIO HERO=========== */
-.project-cards-section {
+
+.portfolio-section {
     padding-top: 96px;
+    padding-bottom: 120px;
 }
 
+
 .btn-list {
-    display: flex;
+    display: flex ;
     align-items: center;
     justify-content: center;
     margin-bottom: 72px;
@@ -511,6 +514,7 @@ span.footer-logo-second-word {
     background-color: #404BBF;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
     border-radius: 4px;
+    border-color: #404BBF;
 }
 
 .portfolio-list {
@@ -524,14 +528,6 @@ span.footer-logo-second-word {
     flex-basis: calc((100% - 48px) / 3);
 }
 
-/* .portfolio-item:hover,
-.portfolio-item:focus {
-    border-left: 0.5px solid #F4F4FD;
-    border-right: 0.5px solid #F4F4FD;
-    border-bottom: 0.5px solid #F4F4FD;;
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-} */
-
 .portfolio-photo {
     width: 100%;
 }
@@ -543,9 +539,6 @@ span.footer-logo-second-word {
 
 .portfolio-cards-link:hover,
 .portfolio-cards-link:focus {
-    border-left: 0.5px solid #F4F4FD;
-    border-right: 0.5px solid #F4F4FD;
-    border-bottom: 0.5px solid #F4F4FD;;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
