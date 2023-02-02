@@ -212,8 +212,6 @@ span.header-logo-second-word {
     background-size: cover;
     max-width: 1440px;
     background-color: #2E2F42;
-
-    
 }
 
 .modal-btn {
@@ -352,7 +350,7 @@ span.header-logo-second-word {
 
 .social-list-link:hover,
 .social-list-link:focus {
-    background-color: #404BBF;;
+    background-color: #404BBF;
 }
 
 .social-list-icon {
@@ -416,9 +414,6 @@ span.header-logo-second-word {
     margin-right: 120px;
 }
 
-.footer-social-media {
-    
-}
 span.footer-logo-first-word {
     font-family: 'Raleway';
     font-weight: 800;
@@ -427,6 +422,7 @@ span.footer-logo-first-word {
     letter-spacing: 0.03em;
     color: #4D5AE5;
 }
+
 span.footer-logo-second-word {
     font-family: 'Raleway';
     font-weight: 800;
@@ -451,6 +447,7 @@ span.footer-logo-second-word {
     color: #FFFFFF;
     margin-bottom: 16px;
 }
+
 .social-list-theme-dark {
     display: flex;
     justify-content: center;
@@ -468,7 +465,7 @@ span.footer-logo-second-word {
 }
 
 .social-list-icon-theme-dark {
-    fill: #F4F4FD;;
+    fill: #F4F4FD;
 }
 
 .social-list-link-theme-dark:hover,
@@ -482,7 +479,6 @@ span.footer-logo-second-word {
     padding-top: 96px;
     padding-bottom: 120px;
 }
-
 
 
 .btn-list {
