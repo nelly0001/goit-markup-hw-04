@@ -473,15 +473,16 @@ span.footer-logo-second-word {
 
 .social-list-link-theme-dark:hover,
 .social-list-link-theme-dark:focus {
-    background-color: #31D0AA;;
+    background-color: #31D0AA;
 }
-.
+
 /* =============PORTFOLIO HERO=========== */
 
 .portfolio-section {
     padding-top: 96px;
     padding-bottom: 120px;
 }
+
 
 
 .btn-list {
